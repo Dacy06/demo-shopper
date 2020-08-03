@@ -1,3 +1,8 @@
+A shopper demo according to book Pure React.
+
+[onlineDemo](https://dacy06.github.io/demo-shopper/)
+
+---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
