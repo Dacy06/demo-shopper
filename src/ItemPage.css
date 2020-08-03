@@ -1,0 +1,30 @@
+.ItemPage-items {
+  margin: 0;
+  padding: 0;
+}
+.ItemPage-items li {
+  list-style: none;
+  margin-bottom: 20px;
+}
+
+.Item-addToCart {
+  margin-bottom: 5px;
+  font-size: 14px;
+  border: 2px solid #ffaa3f;
+  border-radius: 3px;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.Item-addToCart:hover {
+  background-color: #ffddb2;
+}
+
+.Item-addToCart:active {
+  background-color: #ed8400;
+  color: #fff;
+  outline: none;
+}
+
+.Item-addToCart:focus {
+  outline: none; }
